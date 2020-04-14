@@ -28,3 +28,4 @@ artifacts:
     - appspec.yml
     - buildspec.yml
     - codedeploy/*
+    
