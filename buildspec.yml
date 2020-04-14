@@ -21,3 +21,10 @@ phases:
  post_build:
    commands:
      - echo Build completed on `date`
+
+artifacts:
+  files:
+    - main
+    - appspec.yml
+    - buildspec.yml
+    - codedeploy/*
