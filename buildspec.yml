@@ -24,8 +24,5 @@ phases:
 
 artifacts:
   files:
-    - main
-    - appspec.yml
-    - buildspec.yml
-    - codedeploy/*
+    - *
     
